@@ -18,7 +18,7 @@ Coin 9: 8 coins
 Set up an addition problem, and use the coins to solve the equation, sliding up the 1 coins to symbolize carrying the 1.
 
 <img width="885" height="481" alt="IMG_6007" src="https://github.com/user-attachments/assets/0e70f6cd-5bd1-48a9-8c40-920fb76ee253" />
-<img width="924" height="550" alt="IMG_6008" src="https://github.com/user-attachments/assets/075a5ac8-4059-4065-b0bc-bf4e9c643a97" />
+<img width="924" height="550" alt="IMG_6008" src="https://github.com/user-attachments/assets/075a5ac8-4059-4065-b0bc-bf4e9c643a97" />  
 
 Inspired by:  
 [Post from Renu Bala's Facebook Account](https://www.facebook.com/reel/1866737950944403)  
