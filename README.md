@@ -15,8 +15,11 @@ Coin 9: 8 coins
 
 ![Work Board with problem](https://github.com/user-attachments/assets/9e1ee7af-beeb-444a-9979-4d712c5e797e)
 
-Set up an addition problem, and use the coins to answer the equation, sliding up the 1 coins to symbolize carrying the 1.
+Set up an addition problem, and use the coins to solve the equation, sliding up the 1 coins to symbolize carrying the 1.
 
 <img width="885" height="481" alt="IMG_6007" src="https://github.com/user-attachments/assets/0e70f6cd-5bd1-48a9-8c40-920fb76ee253" />
 <img width="924" height="550" alt="IMG_6008" src="https://github.com/user-attachments/assets/075a5ac8-4059-4065-b0bc-bf4e9c643a97" />
 
+Inspired by:  
+[Post from Renu Bala's Facebook Account](https://www.facebook.com/reel/1866737950944403)
+[Magnetic Column-Addition Board(Hundreds–Tens–Ones) by @Bulid on MakerWorld](https://makerworld.com/en/models/1750818-magnetic-column-addition-board-hundreds-tens-ones?from=search#profileId-1861372)
