@@ -8,5 +8,4 @@ for x in range(0,1000): #change 1000 in lines 2 and 3 for higher digit boards (1
                 coins[i] = str(x).count(str(i)) + str(y).count(str(i)) + str(x+y).count(str(i))
 coins[1] += 2 #adds 2 extra 1 coins for the 2 sliders
 for i in range(0,10):
-
     print("Coin",str(i),"  Amount",coins[i])
